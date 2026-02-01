@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "aether-lang",
+    "aether-runtime",
+    "aether-std",
+]
+
+resolver = "2"

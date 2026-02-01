@@ -1,0 +1,8 @@
+[package]
+name = "aether-runtime"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libc = "0.2"
+# metal = "0.24" # Commented out until we confirm availability or mock it
