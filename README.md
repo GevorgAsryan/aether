@@ -3,6 +3,8 @@
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-experimental-orange.svg)]()
 [![AI-Native](https://img.shields.io/badge/AI-Native-purple.svg)](README-AI.md)
+[![Website](https://img.shields.io/badge/website-asryan.dev%2Faether-blue)](https://asryan.dev/aether)
+
 
 > **"Local First. Swarm Ready."**
 
