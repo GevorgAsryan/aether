@@ -1,6 +1,6 @@
 # Aether 
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-experimental-orange.svg)]()
 [![AI-Native](https://img.shields.io/badge/AI-Native-purple.svg)](README-AI.md)
 
@@ -71,4 +71,4 @@ Aether is built to be written *by* AIs.
 - **Manual**: Providing [`docs/AI_CODING_MANUAL.md`](docs/AI_CODING_MANUAL.md) to an LLM teaches it Aether syntax instantly.
 
 ## 📜 License
-MIT License. See [LICENSE](LICENSE) for details.
+Apache 2.0 License. See [LICENSE](LICENSE) for details.
