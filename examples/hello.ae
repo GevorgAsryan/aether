@@ -1,0 +1,13 @@
+@compute(target = "auto")
+agent DocumentSynthesizer {
+
+    fn digest(content: String) -> String {
+        let embedding = embed(content);
+        let model = load_model("llama-7b");
+
+        thinking "Summarizing" {
+            let result = model.predict(embedding);
+            return result;
+        }
+    }
+}
